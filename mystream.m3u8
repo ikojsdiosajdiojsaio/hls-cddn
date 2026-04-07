@@ -1,9 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:2010
+#EXT-X-MEDIA-SEQUENCE:2011
 #EXT-X-TARGETDURATION:2
-#EXTINF:2.000,
-mystream-2010.ts
 #EXTINF:2.000,
 mystream-2011.ts
 #EXTINF:2.000,
@@ -12,3 +10,5 @@ mystream-2012.ts
 mystream-2013.ts
 #EXTINF:2.000,
 mystream-2014.ts
+#EXTINF:2.000,
+mystream-2015.ts
