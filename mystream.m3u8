@@ -1,9 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:2017
+#EXT-X-MEDIA-SEQUENCE:2018
 #EXT-X-TARGETDURATION:2
-#EXTINF:2.000,
-mystream-2017.ts
 #EXTINF:2.000,
 mystream-2018.ts
 #EXTINF:2.000,
@@ -12,3 +10,5 @@ mystream-2019.ts
 mystream-2020.ts
 #EXTINF:2.000,
 mystream-2021.ts
+#EXTINF:2.000,
+mystream-2022.ts
