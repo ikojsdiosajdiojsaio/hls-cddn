@@ -1,9 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
-#EXT-X-MEDIA-SEQUENCE:1651
+#EXT-X-MEDIA-SEQUENCE:1652
 #EXT-X-TARGETDURATION:2
-#EXTINF:2.000,
-mystream-1651.ts
 #EXTINF:2.000,
 mystream-1652.ts
 #EXTINF:2.000,
@@ -12,3 +10,5 @@ mystream-1653.ts
 mystream-1654.ts
 #EXTINF:2.000,
 mystream-1655.ts
+#EXTINF:2.000,
+mystream-1656.ts
